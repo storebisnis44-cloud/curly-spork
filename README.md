@@ -37,7 +37,7 @@ Website top up
     <div class="bg-[#1e293b] rounded-2xl p-6 mt-5 border border-blue-500/30">
       <h3 class="font-bold text-lg text-blue-400 mb-4">📞 Kontak & Bantuan</h3>
       <div class="text-sm space-y-2">
-        <p>WhatsApp Admin: <b class="text-green-400">08xxxxxxxxxx</b> (GANTI PUNYA KAMU)</p>
+        <p>WhatsApp Admin: <b class="text-green-400">+62585691430849</b> (GANTI PUNYA KAMU)</p>
         <p>Jam Online: <b>08.00 - 23.00 WIB</b></p>
         <p>Email: <b>admin@topupkita.id</b></p>
         <p class="text-gray-400 mt-3">Jika pesanan belum masuk lebih dari 10 menit, hubungi admin dengan menyertakan Kode Invoice & Bukti Transfer.</p>
